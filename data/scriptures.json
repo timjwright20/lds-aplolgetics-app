@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gen-1-26",
+    "volume": "Old Testament",
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": "26",
+    "reference": "Genesis 1:26",
+    "context": "Part of the creation account, in which God says \"Let us make man in our image, after our likeness.\"",
+    "ldsInterpretation": "LDS apologists highlight the plural \"us\" and \"our\" as consistent with a council of divine beings (see also Abraham 4-5, which uses \"Gods\" throughout the creation account), and read \"image\" and \"likeness\" as indicating humans are literally of the same kind of being as God, not merely His handiwork.",
+    "quotes": [],
+    "relatedTopicIds": ["nature-of-god"]
+  },
+  {
+    "id": "1cor-15-29",
+    "volume": "New Testament",
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": "29",
+    "reference": "1 Corinthians 15:29",
+    "context": "Within Paul's extended argument for the reality of the resurrection, he appeals to a practice among some believers of being \"baptized for the dead.\"",
+    "ldsInterpretation": "LDS apologists read this as evidence that vicarious baptism for deceased persons was practiced (or at least known and not condemned) among first-century Christians, and see it as the New Testament anchor for the LDS temple ordinance of baptism for the dead described in Doctrine and Covenants 128.",
+    "quotes": [
+      { "id": "sc-1cor15-q1", "author": "Tertullian", "authorType": "church_father", "text": "Tertullian confirms the practice of vicarious baptism among some Christians of his era and connects it directly to this verse.", "source": "Against Marcion, Book V, Chapter 10 (paraphrase)", "year": "c. 208 AD" }
+    ],
+    "relatedTopicIds": ["baptism-for-the-dead"]
+  },
+  {
+    "id": "jer-1-5",
+    "volume": "Old Testament",
+    "book": "Jeremiah",
+    "chapter": 1,
+    "verse": "5",
+    "reference": "Jeremiah 1:5",
+    "context": "The Lord calls Jeremiah to be a prophet, telling him: \"Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.\"",
+    "ldsInterpretation": "LDS apologists read \"before I formed thee\" and \"before thou camest forth\" as indicating Jeremiah had a real, known existence and was foreordained to his mission prior to mortal conception -- consistent with the LDS doctrine of a premortal spirit existence and foreordination described in Abraham 3:22-23.",
+    "quotes": [],
+    "relatedTopicIds": ["premortal-existence"]
+  },
+  {
+    "id": "amos-3-7",
+    "volume": "Old Testament",
+    "book": "Amos",
+    "chapter": 3,
+    "verse": "7",
+    "reference": "Amos 3:7",
+    "context": "\"Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.\"",
+    "ldsInterpretation": "LDS apologists cite this as describing an ongoing pattern of how God operates -- always working through living prophets -- rather than a one-time historical arrangement that ended with the biblical canon. Critics note the immediate context concerns God's judgments on ancient Israel specifically, not a general theological statement about revelation continuing indefinitely.",
+    "quotes": [],
+    "relatedTopicIds": ["continuing-revelation"]
+  },
+  {
+    "id": "2thess-2-3",
+    "volume": "New Testament",
+    "book": "2 Thessalonians",
+    "chapter": 2,
+    "verse": "3",
+    "reference": "2 Thessalonians 2:3",
+    "context": "Paul tells the Thessalonians the day of Christ will not come \"except there come a falling away first, and that man of sin be revealed.\"",
+    "ldsInterpretation": "The Greek word translated \"falling away,\" apostasia, is the direct origin of the LDS term \"Great Apostasy.\" LDS apologists read this verse as a clear apostolic prediction that widespread doctrinal and institutional corruption would occur before the Second Coming, making a Restoration (rather than only a Reformation) necessary.",
+    "quotes": [
+      { "id": "sc-2thess-q1", "author": "Cyril of Jerusalem", "authorType": "church_father", "text": "For men have fallen from the right faith... This, therefore, is the falling away.", "source": "Catechetical Lectures, commenting on this verse", "year": "c. 350 AD" }
+    ],
+    "relatedTopicIds": ["great-apostasy"]
+  },
+  {
+    "id": "ezek-37-15",
+    "volume": "Old Testament",
+    "book": "Ezekiel",
+    "chapter": 37,
+    "verse": "15-19",
+    "reference": "Ezekiel 37:15-19",
+    "context": "Ezekiel is commanded to write on two sticks (or tablets) -- one for Judah, one for Joseph/Ephraim -- and to join them into one in his hand as a sign to the people.",
+    "ldsInterpretation": "LDS apologists read the \"stick of Joseph\" as symbolizing the Book of Mormon (a record of a branch of the house of Joseph) becoming one with the \"stick of Judah\" (the Bible) in the latter days. Ezekiel's own explanation in verses 15-23 concerns the reunification of the divided kingdoms of Israel and Judah under one king, which many LDS scholars now treat as the passage's primary meaning, with the scripture-record reading held as a secondary, typological application rather than the literal, sole intent of the prophecy.",
+    "quotes": [],
+    "relatedTopicIds": ["book-of-mormon-additional-scripture"]
+  },
+  {
+    "id": "heb-5-4",
+    "volume": "New Testament",
+    "book": "Hebrews",
+    "chapter": 5,
+    "verse": "4",
+    "reference": "Hebrews 5:4",
+    "context": "\"And no man taketh this honour unto himself, but he that is called of God, as was Aaron.\"",
+    "ldsInterpretation": "LDS apologists cite this as the clearest biblical statement of the principle underlying priesthood authority: that authority to act for God must come by proper divine calling and ordination, not by self-assertion, personal study, or congregational vote alone.",
+    "quotes": [],
+    "relatedTopicIds": ["priesthood-authority"]
+  },
+  {
+    "id": "john-10-16",
+    "volume": "New Testament",
+    "book": "John",
+    "chapter": 10,
+    "verse": "16",
+    "reference": "John 10:16",
+    "context": "Jesus says, \"And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.\"",
+    "ldsInterpretation": "LDS apologists read \"other sheep\" as Christ's own reference to other peoples who would also receive His ministry and word -- understood in LDS theology to include the peoples described in the Book of Mormon, whom the resurrected Christ visits in 3 Nephi 15:21.",
+    "quotes": [],
+    "relatedTopicIds": ["book-of-mormon-additional-scripture"]
+  }
+]

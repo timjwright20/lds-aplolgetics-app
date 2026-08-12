@@ -1,0 +1,165 @@
+[
+  {
+    "id": "nature-of-god",
+    "name": "Nature of God / Becoming Like God",
+    "slug": "nature-of-god",
+    "category": "Godhead & Exaltation",
+    "summary": "Latter-day Saints believe that God the Father, Son, and Holy Ghost are three distinct beings united in purpose, and that through Christ's Atonement the faithful can be exalted to live and progress eternally in God's presence and nature -- a doctrine often called theosis or deification, which LDS apologists argue has deep roots in the earliest Christian era.",
+    "biblicalScriptures": [
+      { "reference": "Genesis 1:26", "note": "\"Let us make man in our image, after our likeness\" -- plural language read by LDS interpreters as consistent with a council of divine beings and humankind's fundamentally God-like nature." },
+      { "reference": "John 17:20-23", "note": "Christ prays that His disciples may be \"one\" with Him and the Father \"as\" He and the Father are one -- read as unity of purpose among distinct beings, and an invitation for believers to share in that divine unity." },
+      { "reference": "John 10:34-36", "note": "Jesus quotes Psalm 82:6 (\"Ye are gods\") to Jewish leaders, arguing from their own scripture that the term \"gods\" has legitimately been applied to mortals who receive the word of God." },
+      { "reference": "Romans 8:16-17", "note": "Believers are called \"joint-heirs with Christ\" of God's glory, language LDS apologists read as pointing toward a literal inheritance of divine glory, not merely a figure of speech." },
+      { "reference": "2 Peter 1:4", "note": "Believers are promised they may become \"partakers of the divine nature\" -- a phrase LDS apologists connect directly to the doctrine of theosis taught by many early Christian writers." }
+    ],
+    "ldsScriptures": [
+      { "reference": "Doctrine and Covenants 132:20", "note": "Teaches that exalted, faithful individuals inherit \"all power\" and become gods, having \"all things subject unto them\" -- read as scriptural clarification of the biblical hints above." },
+      { "reference": "Doctrine and Covenants 76:58", "note": "Describes those who inherit the highest degree of glory as \"gods, even the sons of God\" -- providing explicit LDS scriptural language for exaltation." },
+      { "reference": "Moses 1:39", "note": "God's own stated work and glory is \"to bring to pass the immortality and eternal life of man,\" framing exaltation as the central purpose of God's plan rather than a peripheral doctrine." }
+    ],
+    "quotes": [
+      { "id": "ntg-q1", "author": "Athanasius of Alexandria", "authorType": "church_father", "text": "The Son of God became man so that we might become god.", "source": "On the Incarnation (De Incarnatione), 54.3", "year": "c. 318 AD" },
+      { "id": "ntg-q2", "author": "Irenaeus of Lyons", "authorType": "church_father", "text": "The Word of God... did, through His transcendent love, become what we are, that He might bring us to be even what He is Himself.", "source": "Against Heresies, Book V, Preface", "year": "c. 180 AD" },
+      { "id": "ntg-q3", "author": "Joseph Smith", "authorType": "lds_leader", "text": "God himself was once as we are now, and is an exalted man... it is the first principle of the Gospel to know for a certainty the character of God... that he was once a man like us.", "source": "King Follett Discourse, April 1844, as recorded in History of the Church, vol. 6", "year": "1844" },
+      { "id": "ntg-q4", "author": "Lorenzo Snow", "authorType": "lds_leader", "text": "As man now is, God once was; as God now is, man may be.", "source": "Couplet attributed to Lorenzo Snow, summarizing doctrine taught in the King Follett Discourse", "year": "c. 1840" }
+    ],
+    "subtopics": [
+      {
+        "id": "ntg-sub-theosis",
+        "name": "Theosis in the early Christian church",
+        "content": "The concept that redeemed humanity comes to share in God's own nature (theosis or deification) was a mainstream teaching among many early Christian writers, not a later LDS invention. LDS apologists argue this strand of belief was progressively de-emphasized or reinterpreted in the centuries following the apostles as Greek philosophical categories (particularly the idea of an immaterial, wholly transcendent God) reshaped Christian theology -- part of what Latter-day Saints call the Great Apostasy. Critics respond that Athanasius and Irenaeus meant something more limited by \"become god\" than the LDS doctrine of exaltation -- namely, sharing in God's moral and relational life through grace, not becoming a separate divine being who might one day parent worlds. This distinction is one of the most actively debated points between LDS and traditional Christian apologists."
+      }
+    ]
+  },
+  {
+    "id": "baptism-for-the-dead",
+    "name": "Baptism for the Dead",
+    "slug": "baptism-for-the-dead",
+    "category": "Ordinances & Temple",
+    "summary": "Latter-day Saints perform proxy baptisms on behalf of deceased ancestors who did not have the opportunity to be baptized in life, based on Paul's reference to the practice in 1 Corinthians and its continued (if controversial) presence in the first centuries of Christianity.",
+    "biblicalScriptures": [
+      { "reference": "1 Corinthians 15:29", "note": "\"Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?\" Paul references the practice without condemning it, apparently as evidence within his broader argument for a literal resurrection." },
+      { "reference": "1 Peter 4:6", "note": "\"For this cause was the gospel preached also to them that are dead\" -- read by LDS apologists alongside 1 Peter 3:18-20 as evidence the gospel is preached to spirits who died without hearing it, implying a need for ordinances to be made available to them." }
+    ],
+    "ldsScriptures": [
+      { "reference": "Doctrine and Covenants 128:15-18", "note": "Joseph Smith teaches that baptism for the dead is the ordinance implied by Malachi's promise that the hearts of the children would turn to their fathers, and links it directly to Paul's statement in 1 Corinthians 15:29." },
+      { "reference": "Doctrine and Covenants 138:33", "note": "Describes the dead who repent being made able to receive the ordinances of the gospel through proxy work performed by the living." }
+    ],
+    "quotes": [
+      { "id": "bftd-q1", "author": "Epiphanius of Salamis", "authorType": "church_father", "text": "When any of them had died without baptism, they used to baptize others in their name, lest in the resurrection they should suffer punishment as unbaptized.", "source": "Panarion (Adversus Haereses), describing a 2nd-4th century Christian group practicing vicarious baptism", "year": "c. 375 AD" },
+      { "id": "bftd-q2", "author": "Tertullian", "authorType": "church_father", "text": "Tertullian confirms that some Christians of his day practiced vicarious baptism on behalf of the dead, and connects the practice directly to Paul's language in 1 Corinthians 15:29.", "source": "Against Marcion, Book V, Chapter 10 (paraphrase of his argument)", "year": "c. 208 AD" }
+    ],
+    "subtopics": [
+      {
+        "id": "bftd-sub-debate",
+        "name": "Who practiced it, and does that justify LDS temple practice?",
+        "content": "Critics point out that the clearest historical evidence of vicarious baptism comes from groups (such as followers associated with Marcion or Cerinthus) that mainstream Christianity considered heretical, and that Paul's mention of the practice in 1 Corinthians 15:29 is descriptive, not necessarily an endorsement. LDS apologists respond that Paul's willingness to cite the practice as evidence for resurrection -- without any rebuke -- suggests it was at minimum tolerated among some early believers, and that its appearance among diverse and geographically scattered groups suggests an older, more widespread origin that was suppressed rather than invented from nothing."
+      }
+    ]
+  },
+  {
+    "id": "premortal-existence",
+    "name": "Premortal Existence of Spirits",
+    "slug": "premortal-existence",
+    "category": "Plan of Salvation",
+    "summary": "Latter-day Saints believe every person lived as a spirit child of God before mortal birth, a doctrine LDS apologists argue is hinted at in the Bible and was seriously discussed (though later declared heterodox) among early Christian theologians.",
+    "biblicalScriptures": [
+      { "reference": "Jeremiah 1:5", "note": "\"Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee.\" Read by LDS apologists as evidence of a real, personal existence prior to mortal conception." },
+      { "reference": "Job 38:4-7", "note": "God asks Job where he was when the \"sons of God shouted for joy\" at the earth's creation, implying observers -- including, LDS apologists argue, premortal spirits -- present before mortal life began." },
+      { "reference": "Ecclesiastes 12:7", "note": "\"The spirit shall return unto God who gave it,\" language read as consistent with spirits having a prior existence with God before this life, not merely being created at conception." }
+    ],
+    "ldsScriptures": [
+      { "reference": "Abraham 3:22-23", "note": "Describes premortal \"intelligences\" organized before the world was, among whom Abraham is shown he was chosen before he was born -- the clearest LDS scriptural statement of premortal existence." },
+      { "reference": "Doctrine and Covenants 93:29", "note": "\"Man was also in the beginning with God. Intelligence, or the light of truth, was not created or made, neither indeed can be.\"" }
+    ],
+    "quotes": [
+      { "id": "pme-q1", "author": "Origen of Alexandria", "authorType": "church_father", "text": "Origen taught in On First Principles that souls existed in a prior state with God before being joined to physical bodies in mortality -- a teaching later condemned as heterodox but seriously held by one of the most influential theologians of the early church.", "source": "Paraphrased summary of Origen, On First Principles (De Principiis), Book I", "year": "c. 220 AD" }
+    ],
+    "subtopics": []
+  },
+  {
+    "id": "continuing-revelation",
+    "name": "Continuing Revelation and Living Prophets",
+    "slug": "continuing-revelation",
+    "category": "Prophets & Revelation",
+    "summary": "Latter-day Saints believe God continues to reveal His will through living prophets and apostles today, rather than revelation having ceased with the closing of the biblical canon.",
+    "biblicalScriptures": [
+      { "reference": "Amos 3:7", "note": "\"Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.\" LDS apologists read this as describing God's consistent pattern of operating through living prophets, not a one-time historical arrangement." },
+      { "reference": "Ephesians 4:11-14", "note": "Paul lists apostles and prophets among the offices Christ gave the church \"till we all come in the unity of the faith\" -- read by LDS apologists as an ongoing, not temporary, structure intended to prevent believers being \"tossed to and fro\" by false teaching." },
+      { "reference": "Revelation 19:10", "note": "\"The testimony of Jesus is the spirit of prophecy\" -- cited to argue that prophecy is a defining, continuing mark of the true church rather than a closed, completed phenomenon." }
+    ],
+    "ldsScriptures": [
+      { "reference": "Articles of Faith 1:9", "note": "\"We believe all that God has revealed, all that He does now reveal, and we believe that He will yet reveal many great and important things.\"" },
+      { "reference": "Doctrine and Covenants 1:38", "note": "\"Whether by mine own voice or by the voice of my servants, it is the same\" -- establishing that words given through living prophets carry the same weight as scripture." }
+    ],
+    "quotes": [],
+    "subtopics": []
+  },
+  {
+    "id": "great-apostasy",
+    "name": "The Great Apostasy and Need for Restoration",
+    "slug": "great-apostasy",
+    "category": "History & Apostasy",
+    "summary": "Latter-day Saints believe that after the deaths of the apostles, doctrinal corruption, loss of priesthood authority, and outside philosophical influence led to a general apostasy from Christ's original church -- creating the need for a Restoration through Joseph Smith rather than only a Reformation of existing churches.",
+    "biblicalScriptures": [
+      { "reference": "2 Thessalonians 2:1-3", "note": "Paul warns the Second Coming will not occur \"except there come a falling away first\" -- the Greek apostasia, translated \"falling away,\" is the origin of the LDS term \"Great Apostasy.\"" },
+      { "reference": "Amos 8:11-12", "note": "Describes a coming \"famine... of hearing the words of the LORD\" during which people would seek revelation and not find it -- read by LDS apologists as a prophecy of a period without living prophetic guidance." },
+      { "reference": "Acts 20:29-30", "note": "Paul warns the Ephesian elders that after his departure \"grievous wolves\" would enter in, and that men would arise from among themselves speaking \"perverse things\" to draw disciples away." }
+    ],
+    "ldsScriptures": [
+      { "reference": "1 Nephi 13:26-29", "note": "Nephi's vision describes an apostate \"great and abominable church\" removing \"plain and precious\" truths from scripture after it went forth from the twelve apostles." },
+      { "reference": "Joseph Smith—History 1:19", "note": "In the First Vision account, Joseph Smith is told that the existing churches were \"all wrong\" and had a form of godliness but denied its power -- the LDS scriptural basis for the need of a Restoration." }
+    ],
+    "quotes": [
+      { "id": "apo-q1", "author": "Clement of Rome", "authorType": "church_father", "text": "For this reason righteousness and peace are now far departed from you.", "source": "First Epistle of Clement to the Corinthians", "year": "c. 96 AD" },
+      { "id": "apo-q2", "author": "Hegesippus", "authorType": "church_father", "text": "These also, as there were none of the apostles left, henceforth attempted, without shame, to preach their false doctrine against the gospel of truth.", "source": "As preserved in Eusebius, Ecclesiastical History", "year": "c. 165 AD" },
+      { "id": "apo-q3", "author": "Cyril of Jerusalem", "authorType": "church_father", "text": "For men have fallen from the right faith... This, therefore, is the falling away.", "source": "Catechetical Lectures, commenting on 2 Thessalonians 2:3", "year": "c. 350 AD" },
+      { "id": "apo-q4", "author": "Bruce R. McConkie", "authorType": "lds_leader", "text": "In the Old World the great apostasy was complete sometime during the second century A.D.", "source": "Mormon Doctrine, entry \"Apostasy\"" }
+    ],
+    "subtopics": []
+  },
+  {
+    "id": "book-of-mormon-additional-scripture",
+    "name": "The Book of Mormon as Additional Scripture",
+    "slug": "book-of-mormon-additional-scripture",
+    "category": "Scripture & Canon",
+    "summary": "Latter-day Saints believe the Book of Mormon is a genuine additional volume of scripture, a second witness of Jesus Christ alongside the Bible rather than a replacement for it, and that the Bible itself anticipates other scriptural records being brought forth.",
+    "biblicalScriptures": [
+      { "reference": "Ezekiel 37:15-19", "note": "Ezekiel is commanded to write on two sticks -- one for Judah, one for Joseph/Ephraim -- and join them into one in his hand. LDS apologists read the \"stick of Joseph\" as a symbol of the Book of Mormon (a record of a branch of the house of Joseph) becoming one with the Bible (the \"stick of Judah\"). Critics note the underlying Hebrew term for \"stick\" is not otherwise used in the Old Testament to mean a scroll or book, and that Ezekiel's own explanation (v. 15-23) concerns the reunification of the divided kingdoms of Israel and Judah rather than two written records -- a point many LDS scholars now treat as a secondary or typological application rather than the passage's primary meaning." },
+      { "reference": "John 10:16", "note": "\"Other sheep I have, which are not of this fold... and there shall be one fold, and one shepherd.\" Read by LDS apologists as Christ's own reference to other groups (such as the peoples of the Book of Mormon) who would also receive His word and ministry." },
+      { "reference": "Ezekiel 37:16", "note": "See Ezekiel 37:15-19 above; verse 16 specifically instructs Ezekiel on the wording to write for each stick." }
+    ],
+    "ldsScriptures": [
+      { "reference": "2 Nephi 29:8-10", "note": "The Lord explains He speaks the same words to all nations, and that the Bible and Book of Mormon will grow together as two witnesses testifying that He is God." },
+      { "reference": "Title Page of the Book of Mormon", "note": "States the book's purpose is \"to the convincing of the Jew and Gentile that Jesus is the Christ, the Eternal God\" -- positioning it explicitly as a second witness rather than a rival scripture." }
+    ],
+    "quotes": [],
+    "subtopics": [
+      {
+        "id": "bom-sub-ezekiel-debate",
+        "name": "How strong is the Ezekiel 37 argument?",
+        "content": "This is one of the more contested LDS proof texts. It remains useful as an illustration of the Book of Mormon's stated purpose (uniting with the Bible as a second witness) even where its status as a direct prophecy of the Book of Mormon is disputed by both critics and some LDS scholars. Presenting it alongside its critique, rather than as a stand-alone proof, tends to be the stronger apologetic approach."
+      }
+    ]
+  },
+  {
+    "id": "priesthood-authority",
+    "name": "Priesthood Authority and the Laying on of Hands",
+    "slug": "priesthood-authority",
+    "category": "Priesthood & Authority",
+    "summary": "Latter-day Saints believe priesthood authority to act in God's name must be conferred by proper ordination from someone already holding that authority, traced back to Christ and the apostles, rather than being self-assumed.",
+    "biblicalScriptures": [
+      { "reference": "Hebrews 5:4", "note": "\"No man taketh this honour unto himself, but he that is called of God, as was Aaron.\" Cited as the core biblical principle that religious authority must come by proper calling, not personal ambition or study alone." },
+      { "reference": "Acts 8:14-17", "note": "Peter and John are sent to Samaria specifically to lay hands on new believers so they could receive the Holy Ghost, distinguishing baptism from a separate ordinance of the laying on of hands performed by those in authority." },
+      { "reference": "1 Timothy 4:14", "note": "Paul reminds Timothy of the gift given him \"by prophecy, with the laying on of the hands of the presbytery\" -- an ordination by authorized elders." }
+    ],
+    "ldsScriptures": [
+      { "reference": "Joseph Smith—History 1:68-72", "note": "Describes John the Baptist conferring the Aaronic Priesthood upon Joseph Smith and Oliver Cowdery by the laying on of hands, followed by Peter, James, and John conferring the Melchizedek Priesthood." },
+      { "reference": "Articles of Faith 1:5", "note": "\"We believe that a man must be called of God, by prophecy, and by the laying on of hands by those who are in authority, to preach the Gospel and administer in the ordinances thereof.\"" }
+    ],
+    "quotes": [
+      { "id": "pa-q1", "author": "Clement of Alexandria", "authorType": "church_father", "text": "[The apostle John went] to the contiguous territories of the nations, here to appoint bishops, there to set in order whole Churches, there to ordain such as were marked out by the Spirit.", "source": "Who Is the Rich Man That Shall Be Saved?, as preserved in Eusebius, Ecclesiastical History III.23", "year": "c. 195 AD" }
+    ],
+    "subtopics": []
+  }
+]
